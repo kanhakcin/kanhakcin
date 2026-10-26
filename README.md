@@ -159,7 +159,7 @@ My long-term vision is to build intelligent digital products that support busine
 ## 🤝 Let's Connect
 
 - 🌐 **BYKONZ:** https://bykonz.com
-- 💻 **GitHub:** https://github.com/SEU_USUARIO
+- 💻 **GitHub:** https://github.com/kanhakcin
 
 I'm open to learning opportunities, technology collaborations, and projects involving software development, AI, automation, IoT, and digital transformation.
 
